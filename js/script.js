@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Future Researcher", "Grad Student :^(", "Mediocre Programmer"],
+    strings: ["Future Researcher", "PhD Student", "Programmer"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
